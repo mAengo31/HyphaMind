@@ -3,7 +3,6 @@ HypaMind is a novel hypothesis generation framework that is responsible for gene
 
 Currently HypaMind is focused on the CS field, however it could easily be extended to other corpuses in the future.
 
-This github page was specifically prepared for the asteromorph team. If you are interested or have any questions, I am always open for a coffee chat. 
 
 ## What HypaMind Does
 - Large-Scale Corpus Analysis: Ingests a massive collection of scientific papers and structures them into problem–method representations.
